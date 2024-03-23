@@ -1,0 +1,2 @@
+.card{background:skyblue;border:1px solid #000;cursor:move;line-height:60px;margin:10px;padding:0 20px;transition:transform 2s;width:200px}.card.dragging{opacity:.5}.box{background:blue;height:50px;margin:10px;width:50px}.container{border:1px solid #000;height:300px;width:300px}.dragging{opacity:.1}.drag-layer{position:fixed}
+/*# sourceMappingURL=main.a251abc7.css.map*/
